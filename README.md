@@ -1,4 +1,4 @@
-# deposit-money-a1
+# Deposit API Automation Project 
   
 ## project Summary:
 This project has automate user API from postman using newman.
